@@ -1,7 +1,5 @@
 ﻿global using System.Text.RegularExpressions;
 
-namespace ExtensionMethods;
-
 public static class PrimitiveExtensions
 {
     // String

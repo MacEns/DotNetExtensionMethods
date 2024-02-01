@@ -1,7 +1,5 @@
 ﻿using System.Reflection;
 
-namespace ExtensionMethods;
-
 public static class IEnumerableExtensions
 {
     public static bool IsEmpty<T>(this IEnumerable<T> source) => !source?.Any() ?? true;

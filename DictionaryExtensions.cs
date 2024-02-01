@@ -1,4 +1,4 @@
-﻿namespace ExtensionMethods;
+﻿
 
 public static class DictionaryExtensions
 {
